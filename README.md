@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahman-sharief-29a8151a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-sharief-29a8151a9" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abdalrhmansmile?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalrhmansmile" height="30" width="40" /></a>
-  <a href="t.me/AbdulRahmanSharief" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AbdulRahmanSharief" height="30" width="40" /></a>
+  <a href="https://t.me/AbdulRahmanSharief" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AbdulRahmanSharief" height="30" width="40" /></a>
 </p>
 </p>
 
