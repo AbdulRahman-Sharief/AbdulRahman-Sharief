@@ -11,6 +11,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,php,cpp,docker,elasticsearch,express,git,githubactions,go,rust,grafana,graphql,java,kafka,rabbitmq,kubernetes,mongodb,mysql,nestjs,nextjs,gatsbyjs,astro,nodejs,nuxtjs,postgres,mysql,postman,redis,redux,spring,sqlite,ts,js" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,php,cpp,docker,elasticsearch,terraform,express,git,githubactions,go,rust,grafana,graphql,java,kafka,rabbitmq,kubernetes,mongodb,mysql,nestjs,nextjs,gatsbyjs,astro,nodejs,nuxtjs,postgres,mysql,postman,redis,redux,spring,sqlite,ts,js" />
 </p>
 
